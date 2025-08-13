@@ -20,8 +20,6 @@ In this lab, we're connecting to the Windows Server 2022 EC2 instance created in
    - Observe both the **Public IP** and **Private IP** addresses.  
    - You can also view its **VPC ID** and **Subnet ID**.  
 
-(*As described in your transcript around 00:00:19 – 00:01:11.*)
-
 ---
 
 ## 3. Initiate RDP Connection  
@@ -31,9 +29,6 @@ In this lab, we're connecting to the Windows Server 2022 EC2 instance created in
    - Click **Get Password** to retrieve the administrator password.  
      - Upload your **.pem key pair** (downloaded in the previous lab).  
      - Click **Decrypt Password**, then copy and store the decrypted password securely.  
-
-(*These steps align with AWS documentation.*)  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -51,7 +46,6 @@ In this lab, we're connecting to the Windows Server 2022 EC2 instance created in
 - **Certificate Warnings**: Windows instances typically use self-signed certificates. In production environments, configure a proper Certificate Authority to eliminate warning prompts.  
   
 - **Licensing Limits**: Windows Server’s license allows only up to **two concurrent RDP sessions** for administrative use.  
-  :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -71,4 +65,5 @@ In the next lab, we'll install Active Directory components and begin configuring
 | 5 | Proceed to Active Directory configuration in the next lab |
 
 ---
+
 
