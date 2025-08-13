@@ -1,3 +1,7 @@
+
+# Watch Me Build The Lab HERE
+https://www.loom.com/share/5879d781f5224b6b97fdfffd6f20b4b4?sid=fc7f42a2-cc56-42ae-a680-db72ec3f279d
+
 # AWS Lab: Connecting to a Windows Server 2022 EC2 Instance via RDP
 
 This lab walks you through connecting to your Windows Server 2022 EC2 instance using Remote Desktop Protocol (RDP), incorporating steps mentioned in your transcript.
@@ -67,3 +71,4 @@ In the next lab, we'll install Active Directory components and begin configuring
 | 5 | Proceed to Active Directory configuration in the next lab |
 
 ---
+
